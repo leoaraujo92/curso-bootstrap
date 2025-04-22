@@ -1,0 +1,12 @@
+1 - instalando via cdn
+
+Instalando o Bootstrap via cdn através do site 
+https://getbootstrap.com/
+
+Ou pode ser instalado pelo npm (npm install bootstrap@5.3.5)
+
+2 - baixando os aquivivos localmente
+
+3 via npm ou yarn
+
+No site do Bootstrap tem a documentação

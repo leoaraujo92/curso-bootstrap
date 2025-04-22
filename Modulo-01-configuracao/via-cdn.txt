@@ -1,4 +1,0 @@
-Instalando o Bootstrap via cdn através do site 
-https://getbootstrap.com/
-
-Ou pode ser instalado pelo npm (npm install bootstrap@5.3.5)
