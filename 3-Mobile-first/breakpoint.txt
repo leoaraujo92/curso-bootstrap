@@ -1,0 +1,8 @@
+Responsive breakpoints
+
+padrão 576 pixels xs
+acima de 576px sm
+lagura mínima de 768px md.
+largura mínima de 992px lg.
+largura mínima de 1200px xl
+
